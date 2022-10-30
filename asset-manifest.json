@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/rms-portfolio/static/css/main.ffca7f89.css",
-    "main.js": "/rms-portfolio/static/js/main.3b9afed1.js",
+    "main.js": "/rms-portfolio/static/js/main.3d10049f.js",
     "static/media/rms.png": "/rms-portfolio/static/media/rms.7897a8b1bedb2a11ef09.png",
     "static/media/rms.gif": "/rms-portfolio/static/media/rms.e795423465417d13832c.gif",
     "static/media/resume.pdf": "/rms-portfolio/static/media/resume.3d73759cbe973405e7a6.pdf",
-    "static/media/fairmartLogo.png": "/rms-portfolio/static/media/fairmartLogo.5f1c974ba2b852025340.png",
-    "static/media/aleshamartLogo.png": "/rms-portfolio/static/media/aleshamartLogo.018e84e3356b7abc171a.png",
-    "static/media/shahcementLogo.png": "/rms-portfolio/static/media/shahcementLogo.f061c6019f14a05b85d0.png",
+    "static/media/fairmartLogo.png": "/rms-portfolio/static/media/fairmartLogo.5f83eb0e6851a86c7bdf.png",
+    "static/media/shahcementLogo.png": "/rms-portfolio/static/media/shahcementLogo.38687f9d40f60aa91633.png",
+    "static/media/aleshamartLogo.png": "/rms-portfolio/static/media/aleshamartLogo.009158c7a5510f3b75d6.png",
     "index.html": "/rms-portfolio/index.html",
     "main.ffca7f89.css.map": "/rms-portfolio/static/css/main.ffca7f89.css.map",
-    "main.3b9afed1.js.map": "/rms-portfolio/static/js/main.3b9afed1.js.map"
+    "main.3d10049f.js.map": "/rms-portfolio/static/js/main.3d10049f.js.map"
   },
   "entrypoints": [
     "static/css/main.ffca7f89.css",
-    "static/js/main.3b9afed1.js"
+    "static/js/main.3d10049f.js"
   ]
 }
