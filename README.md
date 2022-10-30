@@ -1,6 +1,5 @@
 ﻿# rms-portfolio
 # After pull the repository
-# CMD:
-﻿npm i
-﻿npm start
+#cmd: npm i
+#cmd: npm start
 # Happy Codding :)
