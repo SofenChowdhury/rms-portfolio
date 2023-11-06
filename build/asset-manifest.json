@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/rms-portfolio/static/css/main.18d84426.css",
+    "main.js": "/rms-portfolio/static/js/main.980d9fcb.js",
+    "static/media/rms.jpg": "/rms-portfolio/static/media/rms.6e2aa5a098e81208c140.jpg",
+    "static/media/rms.gif": "/rms-portfolio/static/media/rms.e795423465417d13832c.gif",
+    "static/media/resume.pdf": "/rms-portfolio/static/media/resume.347670ab5e30f64804ec.pdf",
+    "static/media/borologo.png": "/rms-portfolio/static/media/borologo.f422387ee7340ad72df5.png",
+    "static/media/fairmartLogo.png": "/rms-portfolio/static/media/fairmartLogo.5f1c974ba2b852025340.png",
+    "static/media/shahcementLogo.png": "/rms-portfolio/static/media/shahcementLogo.f061c6019f14a05b85d0.png",
+    "index.html": "/rms-portfolio/index.html",
+    "main.18d84426.css.map": "/rms-portfolio/static/css/main.18d84426.css.map",
+    "main.980d9fcb.js.map": "/rms-portfolio/static/js/main.980d9fcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18d84426.css",
+    "static/js/main.980d9fcb.js"
+  ]
+}
