@@ -1,7 +1,7 @@
 import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/fairmartLogo.png'
-import IMG2 from '../../assets/aleshamartLogo.png'
+import IMG2 from '../../assets/borologo.png'
 import IMG3 from '../../assets/shahcementLogo.png'
 
 const Portfolio = () => {
@@ -25,10 +25,10 @@ const Portfolio = () => {
           <div className="portfolio__items-image">
             <img src={IMG2} alt="" />
           </div>
-          <h3>Alesha Mart</h3>
+          <h3>NSRIC</h3>
           <div className="portfolio__items-cta">
             {/* <a href="https://www.google.com" className='btn' target="_blank">Github</a> */}
-            <a href="https://aleshamart.com/" className='btn btn-primary' target="_blank">Live</a>
+            <a href="https://www.nsric.ca/" className='btn btn-primary' target="_blank">Live</a>
           </div>
         </article>
         <article className="portfolio__items">
